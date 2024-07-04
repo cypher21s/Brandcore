@@ -15,7 +15,7 @@ BrandCore is a dynamic website built with HTML, CSS, and GSAP (GreenSock Animati
 
 ## How to Run
 
-To run the Armour-X Website locally on your machine:
+To run the Brandcore Website locally on your machine:
 
 1. Clone the repository: `git clone https://github.com/your-username/Brandcore.git`
 2. Navigate to the project directory: `cd Brandcore`
